@@ -1,4 +1,10 @@
-# Energy Insight ⚡
+## 🔗 Project Links
+
+- **Live Dashboard – Energy Insight:** [Open Application](https://energy-usage-analyser-jlgcbpffxzfkeefihk63jr.streamlit.app/)
+- **Source Code:** [GitHub Repository](https://github.com/ashi282007/energy-usage-analyser)
+- **Dataset:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption)
+
+  # Energy Insight ⚡
 ### Smart Household Energy Analytics & Forecasting Platform
 
 Energy Insight is an interactive data analytics project that explores household electricity consumption through data cleaning, exploratory analysis, statistical methods, forecasting, anomaly detection, and interactive visualisation.
