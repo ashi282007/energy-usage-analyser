@@ -419,7 +419,7 @@ def render_footer():
 
     st.markdown("---")
 
-    col1, col2, col3 = st.columns(3)
+    col1, col2 = st.columns(2)
 
     with col1:
 
@@ -449,19 +449,7 @@ def render_footer():
             unsafe_allow_html=True
         )
 
-    with col3:
-
-        st.markdown(
-            textwrap.dedent("""
-            <div class="footer-heading">CONNECT</div>
-<div class="footer-text">
-    <a class="footer-link" href="https://github.com/ashi282007" target="_blank">GitHub</a><br>
-    <a class="footer-link" href="https://www.linkedin.com/in/YOUR-NAME" target="_blank">LinkedIn</a><br>
-    <a class="footer-link" href="https://github.com/ashi282007/YOUR-REPO" target="_blank">Documentation</a>
-</div>
-            """),
-            unsafe_allow_html=True
-        )
+    
 
     st.markdown(
         textwrap.dedent("""
