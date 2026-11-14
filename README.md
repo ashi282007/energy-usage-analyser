@@ -69,6 +69,7 @@ enery-usage-analyser/
 ├── data/
 │   ├── raw/
 │   └── processed/
+|        ├── .gitkeep
 |       └── energy_v2.db
 │
 │
