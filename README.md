@@ -125,8 +125,8 @@ The project follows a data processing and analysis workflow:
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd enery-usage-analyser
+git clone https://github.com/ashi282007/energy-usage-analyser.git
+cd energy-usage-analyser
 ```
 
 ### 2. Create a virtual environment
@@ -188,4 +188,4 @@ Potential extensions include:
 
 **Ashish Kaur**
 
-[GitHub](YOUR_GITHUB_PROFILE_URL) · [LinkedIn](YOUR_LINKEDIN_URL)
+[GitHub](https://github.com/ashi282007)
