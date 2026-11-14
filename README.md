@@ -69,6 +69,7 @@ enery-usage-analyser/
 ├── data/
 │   ├── raw/
 │   └── processed/
+|       └── energy_v2.db
 │
 │
 ├── notebooks/
