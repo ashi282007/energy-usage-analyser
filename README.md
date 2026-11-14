@@ -70,8 +70,6 @@ enery-usage-analyser/
 │   ├── raw/
 │   └── processed/
 │
-├── docs/
-│   └── images/
 │
 ├── notebooks/
 │   └── analysis.ipynb
