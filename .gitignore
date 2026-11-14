@@ -1,0 +1,30 @@
+# Raw dataset
+data/raw/household_power_consumption.txt
+data/household_power_consumption.txt
+
+# Processed databases
+data/processed/*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Pytest
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
